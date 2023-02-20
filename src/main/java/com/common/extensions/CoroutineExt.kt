@@ -1,4 +1,4 @@
-package com.emq.extensions
+package com.common.extensions
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.flow

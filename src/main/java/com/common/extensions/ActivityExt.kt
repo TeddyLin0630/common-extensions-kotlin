@@ -1,4 +1,4 @@
-package com.emq.extensions
+package com.common.extensions
 
 import android.app.Activity
 import android.view.inputmethod.InputMethodManager

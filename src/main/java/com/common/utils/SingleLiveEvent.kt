@@ -1,4 +1,4 @@
-package com.emq.utils
+package com.common.utils
 /*
  *  Copyright 2017 Google Inc.
  *

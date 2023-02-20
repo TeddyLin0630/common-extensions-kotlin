@@ -1,4 +1,4 @@
-package com.emq.extensions
+package com.common.extensions
 
 import android.graphics.Bitmap
 import android.graphics.Color

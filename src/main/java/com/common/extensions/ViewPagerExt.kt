@@ -1,4 +1,4 @@
-package com.emq.extensions
+package com.common.extensions
 
 import android.animation.Animator
 import android.animation.TimeInterpolator
