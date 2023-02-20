@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.emq.extensions",
+  "applicationId": "com.common.extensions",
   "variantName": "debug",
   "elements": [
     {
